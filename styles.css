@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap');
+
+
+
+
+body{
+background-color: #E4F9F5;
+text-align: center;
+}
+h1
+{
+    font-family: 'Lovers Quarrel',cursive;
+    font-size: 4rem ;
+    color: #66BFBF;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+.v
+{
+    color: #e40017;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+
+.c{
+    color: #e40017;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;}
+    .m
+    {color: #e40017;
+        font-size: 1.5rem;
+        font-family: 'Montserrat', sans-serif;}
+        .n{
+            color: #e40017;
+            font-size: 1.5rem;
+            font-family: 'Montserrat', sans-serif;
+        }
+        .x
+        {color: #e40017;
+            font-size: 1.5rem;
+            font-family: 'Montserrat', sans-serif;}
+            .b
+            {color: #e40017;
+                font-size: 1.5rem;
+                font-family: 'Montserrat', sans-serif;}
+                .z
+                {color: #e40017;
+                    font-size: 1.5rem;
+                    font-family: 'Montserrat', sans-serif;
+
+                }
+                div { text-align: center; }
+ul { display: inline-block; text-align: left; }
+
+.first{
+font-size: 1rem;
+    color: #7579e7;
+    font-family: 'Montserrat', sans-serif;
+}
+.second{
+    font-size: 1rem;
+    color: #7579e7;
+    font-family: 'Montserrat', sans-serif;
+}
